@@ -25,6 +25,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [(Modern) HTML](slide/2-02-html.pdf)
 - [Cascading Style Sheets](slide/2-03-css.pdf)
 - [JavaScript in the Browser](slide/2-04-JS-browser.pdf)
+- [Fetch API](slide/2-05-fetch.pdf)
 
 
 ### React
@@ -35,6 +36,8 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Forms](slide/3-04-Forms.pdf)
 - [Context](slide/3-05-Context.pdf)
 - [React Router](slide/3-06-React-Router.pdf)
+- [Client-Server Interaction in React](slide/3-07-Client-Server-React.pdf)
+- [React Life Cycle](slide/3-08-LifeCycle.pdf)
 
 
 ### Web Servers and server-side APIs
@@ -47,17 +50,18 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - Reading 1: [Introduction to Web Architectures, HTML, and CSS](readings/2-0-reading-web-architecture-html-css.pdf)
 - Reading 2: [The 'this' keyword in JavaScript](readings/1-4-reading-this.pdf)
 - Reading 3: [JavaScript Modules](readings/1-5-reading-modules.pdf)
-- Reading 4
 
 
 ## Laboratories
 
-- Lab 1: [Getting Started with Node.js](./labs/lab01-getting-started-node.pdf)
-- Lab 2: [Database Integration](./labs/lab02-node-database.pdf)
-- Lab 3: [Getting started with HTML and CSS](./labs/lab03-html-css.pdf)
-- Lab 4: [JavaScript in the Browser](./labs/lab04-js-browser.pdf)
-- Lab 5: [Getting Started with React](./labs/lab05-getting-started-react.pdf)
-- Lab 6: [React Forms](./labs/lab06-forms.pdf)
-- Lab 7: [React Routes](./labs/lab07-routes.pdf)
-- Lab 8: Express
-- Lab 9:
+- Lab 01: [Getting Started with Node.js](./labs/lab01-getting-started-node.pdf)
+- Lab 02: [Database Integration](./labs/lab02-node-database.pdf)
+- Lab 03: [Getting started with HTML and CSS](./labs/lab03-html-css.pdf)
+- Lab 04: [JavaScript in the Browser](./labs/lab04-js-browser.pdf)
+- Lab 05: [Getting Started with React](./labs/lab05-getting-started-react.pdf)
+- Lab 06: [React Forms](./labs/lab06-forms.pdf)
+- Lab 07: [React Routes](./labs/lab07-routes.pdf)
+- Lab 08: [Express](./labs/lab08-express.pdf)
+- Lab 09: Client-server interaction (part 1)
+- Lab 10: Client-server interaction (part 2)
+- Lab 11: Authentication
